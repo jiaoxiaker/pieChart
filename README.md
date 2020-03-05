@@ -1,7 +1,5 @@
 # pieChart
-饼状图 pie chart 
-
-![Alt text](https://github.com/jiaoxiaker/pieChart/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-05%20at%2016.54.08.png)
+饼状图 pie chart  
 
 <img src="https://github.com/jiaoxiaker/pieChart/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-05%20at%2016.54.08.png" width="300" alt="饼状图">
 
