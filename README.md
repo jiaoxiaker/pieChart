@@ -3,6 +3,8 @@
 
 ![Alt text](https://github.com/jiaoxiaker/pieChart/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-05%20at%2016.54.08.png)
 
+<img src="https://github.com/jiaoxiaker/pieChart/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%2011%20Pro%20Max%20-%202020-03-05%20at%2016.54.08.png" width="300" alt="饼状图">
+
 1.实例化  
 
 let sectorDiagramView = SectorDiagramView.init(frame: CGRect(x: 50, y: 50, width: 300, height: 300))
