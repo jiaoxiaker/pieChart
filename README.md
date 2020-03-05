@@ -1,6 +1,5 @@
 # pieChart
-饼状图 pie chart
-一.折线图和柱状图
+饼状图 pie chart 
 
 1.实例化  
 
